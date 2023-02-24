@@ -1,0 +1,8 @@
+img {
+	max-width: 100%;
+	height: auto;
+	filter: grayscale(50%);
+	margin: 10px;
+}
+
+
